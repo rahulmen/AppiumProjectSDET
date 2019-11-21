@@ -1,2 +1,4 @@
-/Users/rahulmendiratta/Documents/WorkSpace/learning.appium/src/main/java/com/learning/appium/Calculator.java
-/Users/rahulmendiratta/Documents/WorkSpace/learning.appium/src/main/java/com/learning/appium/BaseClass.java
+/Users/rahulmendiratta/Documents/WorkSpace/learning.appium/src/main/java/com/learning/appium/baseClasses/Constrants.java
+/Users/rahulmendiratta/Documents/WorkSpace/learning.appium/src/main/java/com/learning/appium/baseClasses/BaseClass.java
+/Users/rahulmendiratta/Documents/WorkSpace/learning.appium/src/main/java/com/learning/appium/baseClasses/AppiumDriverPageFactory.java
+/Users/rahulmendiratta/Documents/WorkSpace/learning.appium/src/main/java/com/learning/appium/baseClasses/DesiredCapability.java

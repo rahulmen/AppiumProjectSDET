@@ -1,1 +1,4 @@
-com/learning/appium/AppTest.class
+com/learning/appium/Locator/LiveTVPage.class
+com/learning/appium/Locator/HomePage.class
+com/learning/appium/Tests/AirtelXtreamTest.class
+com/learning/appium/Locator/UserLoginInfoPage.class

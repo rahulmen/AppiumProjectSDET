@@ -1,2 +1,4 @@
-com/learning/appium/Calculator.class
-com/learning/appium/BaseClass.class
+com/learning/appium/baseClasses/BaseClass.class
+com/learning/appium/baseClasses/AppiumDriverPageFactory.class
+com/learning/appium/baseClasses/DesiredCapability.class
+com/learning/appium/baseClasses/Constrants.class

@@ -1,6 +1,4 @@
-package com.learning.appium;
-
-import java.net.URL;
+package com.learning.appium.baseClasses;
 
 public interface Constrants {
 

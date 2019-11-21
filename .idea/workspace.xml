@@ -2,14 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="68301a35-bf5d-4c78-aac5-71d5b54ca70c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_27.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_10.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_beanshell_bsh_2_0b4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_8.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_6.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learning/appium/baseClasses/BaseClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/learning/appium/Locator/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/learning/appium/Locator/LiveTVPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/learning/appium/Locator/UserLoginInfoPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/learning/appium/Tests/AirtelXtreamTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learning.appium.iml" beforeDir="false" afterPath="$PROJECT_DIR$/learning.appium.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning.appium.iml" beforeDir="false" afterPath="$PROJECT_DIR$/integration-testApp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/learning/appium/AppiumDriverPageFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learning/appium/baseClasses/AppiumDriverPageFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/learning/appium/BaseClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/learning/appium/Constrants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learning/appium/baseClasses/Constrants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/learning/appium/DesiredCapability.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learning/appium/baseClasses/DesiredCapability.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/learning/appium/AppiumAPiDemos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/learning/appium/OpenChrome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/learning.appium.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learning/appium/AppiumDriverPageFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learning/appium/BaseClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learning/appium/Constrants.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learning/appium/DesiredCapability.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/learning.appium-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/learning.appium-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/learning/appium/AppiumAPiDemos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/learning/appium/OpenChrome.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +67,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/resources" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
@@ -72,13 +92,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.AppiumAPiDemos.uiAutomator">
-    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.learning.appium.Calculator" />
-      <module name="learning.appium" />
+  <component name="RunManager" selected="TestNG.AirtelXtreamTest.LiveTVAirtelXtreamTests">
+    <configuration name="AirtelXtreamTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learning.appium.Tests.AirtelXtreamTest" />
+      <module name="integration-testApp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.learning.appium.*" />
+          <option name="PATTERN" value="com.learning.appium.Tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,80 +106,87 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OpenChrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.learning.appium.OpenChrome" />
-      <module name="learning.appium" />
+    <configuration name="AirtelXtreamTest.LiveTVAirtelXtreamTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="integration-testApp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.learning.appium.*" />
+          <option name="PATTERN" value="com.learning.appium.Tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AppiumAPiDemos.tabAction" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="learning.appium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.learning.appium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.learning.appium" />
-      <option name="MAIN_CLASS_NAME" value="com.learning.appium.AppiumAPiDemos" />
-      <option name="METHOD_NAME" value="tabAction" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.learning.appium.Tests" />
+      <option name="MAIN_CLASS_NAME" value="com.learning.appium.Tests.AirtelXtreamTest" />
+      <option name="METHOD_NAME" value="LiveTVAirtelXtreamTests" />
+      <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AppiumAPiDemos.uiAutomator" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="learning.appium" />
+    <configuration name="Test.m1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="integration-testApp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.learning.appium.*" />
+          <option name="PATTERN" value="com.learning.appium.Tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.learning.appium" />
-      <option name="MAIN_CLASS_NAME" value="com.learning.appium.AppiumAPiDemos" />
-      <option name="METHOD_NAME" value="uiAutomator" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.learning.appium.Tests" />
+      <option name="MAIN_CLASS_NAME" value="com.learning.appium.Tests.Test" />
+      <option name="METHOD_NAME" value="m1" />
+      <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OpenChrome.main" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="learning.appium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.learning.appium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.learning.appium" />
-      <option name="MAIN_CLASS_NAME" value="com.learning.appium.OpenChrome" />
-      <option name="METHOD_NAME" value="main" />
+    <configuration default="true" type="TestNG">
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.AirtelXtreamTest" />
+      <item itemvalue="TestNG.AirtelXtreamTest.LiveTVAirtelXtreamTests" />
+      <item itemvalue="TestNG.Test.m1" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.AppiumAPiDemos.uiAutomator" />
-        <item itemvalue="TestNG.AppiumAPiDemos.tabAction" />
-        <item itemvalue="TestNG.OpenChrome.main" />
-        <item itemvalue="Application.OpenChrome" />
-        <item itemvalue="Application.Calculator" />
+        <item itemvalue="TestNG.AirtelXtreamTest.LiveTVAirtelXtreamTests" />
+        <item itemvalue="Application.AirtelXtreamTest" />
+        <item itemvalue="TestNG.Test.m1" />
       </list>
     </recent_temporary>
   </component>
@@ -181,7 +208,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -191,9 +220,19 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/com/learning/appium/OpenChrome.java</url>
-          <line>40</line>
-          <option name="timeStamp" value="23" />
+          <url>file://$PROJECT_DIR$/src/test/java/com/learning/appium/Tests/AirtelXtreamTest.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/learning/appium/Locator/LiveTVPage.java</url>
+          <line>90</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/learning/appium/baseClasses/BaseClass.java</url>
+          <line>94</line>
+          <option name="timeStamp" value="116" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

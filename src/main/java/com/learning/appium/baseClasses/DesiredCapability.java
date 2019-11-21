@@ -1,4 +1,4 @@
-package com.learning.appium;
+package com.learning.appium.baseClasses;
 
 import org.openqa.selenium.remote.DesiredCapabilities;
 
